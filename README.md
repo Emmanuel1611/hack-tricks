@@ -1,1 +1,1 @@
-# hack-tricks
+# hack-trick
